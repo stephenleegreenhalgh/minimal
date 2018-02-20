@@ -3,7 +3,7 @@
 
 ---
 
-<p><a href="https://stephenleegreenhalgh.github.io/index">HOME</a></p>
+<p><a href="https://stephenleegreenhalgh.github.io">HOME</a></p>
 
 <p><a href="https://stephenleegreenhalgh.github.io/1">1</a></p>
 <p><a href="https://stephenleegreenhalgh.github.io/2">2</a></p>
