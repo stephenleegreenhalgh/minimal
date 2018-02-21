@@ -3,24 +3,22 @@
 
 ---
 
-<p><a href="mailto:sgreenhalgh@google.com">sgreenhalgh@google.com</a> <strong>(619) 277-5569</strong></p>
+<h1 id="stephen-greenhalgh">Stephen Greenhalgh</h1>
+<p><a href="mailto:greenhalghsl@hotmail.com">greenhalghsl@hotmail.com</a> <strong>(619) 277-5569</strong></p>
 <p><em>“Learning Linux for over 3 years with a goal of achieving a position as a Junior Systems Administrator / Technical Help Desk.  Seeking to combine my experience of call centre customer service with Red Hat / CentOS Linux infrastructure cloud based KVM / VMware virtual machines, server administration and tech support for Mac OSX / Ubuntu Linux / Android &amp; Chrome OS.”</em></p>
-<hr>
-<p><em><strong>Linux Certifications:</strong></em></p>
+<h2 id="linux-certifications"><em><strong>Linux Certifications:</strong></em></h2>
 <p><strong>Linux Professional Institute</strong> LPIC Linux Essentials (ID LPI000334496)<br>
 Red Hat Enterprise Linux RHCSA / RHCE (studying for exams)<br>
 LPIC 101 <strong>CompTIA</strong> Linux+ (2015)</p>
-<hr>
-<p><em><strong>Continuing Education:</strong></em></p>
+<h2 id="continuing-education"><em><strong>Continuing Education:</strong></em></h2>
 <p>Austin Community College, Texas.  (August 2014 - December 2015)<br>
 CPMT-1074 <a href="http://continue.austincc.edu/catalog/courses.php?name=Red%20Hat%20Linux">Red Hat Linux</a> RHCSA &amp; RHCE 6 &amp; 7 CPMT-1077 [LPIC-1 Linux Series (<a href="http://continue.austincc.edu/catalog/courses.php?name=LPIC-1%20Linux%20Series">http://continue.austincc.edu/catalog/courses.php?name=LPIC-1 Linux Series</a>) Linux LPIC.</p>
-<hr>
-<p><em><strong>Online Learning:</strong></em></p>
+<h2 id="online-learning"><em><strong>Online Learning:</strong></em></h2>
 <blockquote>
 <p>RHAT Linux Live Lessons for RHEL 7  Sander Van Vugt (<a href="http://sandervanvugt.com">sandervanvugt.com</a>) Linux Academy  (Linux Essentials, LPIC 101, Linux+,  Amazon Web Services, Google Cloud Platform).<br>
 General Assembly. Front End Web Design (CSS, HTML)</p>
 </blockquote>
-<p><em><strong>Selected Highlights of Customer Service &amp; Box Office Experience:</strong></em></p>
+<h2 id="selected-highlights-of-customer-service--box-office-experience"><em><strong>Selected Highlights of Customer Service &amp; Box Office Experience:</strong></em></h2>
 <blockquote>
 <p><strong>Telus International.</strong><br>
 Google Project Fi (Pilot Program). Information Services. November 2016 - Current.<br>
